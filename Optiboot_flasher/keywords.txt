@@ -1,0 +1,16 @@
+#######################################
+# Syntax Coloring Map for optiboot.h
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+do_spm_cli	KEYWORD2
+optiboot_page_erase	KEYWORD2
+optiboot_page_fill	KEYWORD2
+optiboot_page_write	KEYWORD2
+optiboot_readPage	KEYWORD2
+optiboot_readPage	KEYWORD2
+optiboot_writePage	KEYWORD2
